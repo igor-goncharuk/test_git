@@ -1,5 +1,5 @@
 <?php
-// 222 1
+// 222  1
 // Включение заголовков CORS и настройки ответа
 require_once "../ui/include_header.php";
 
