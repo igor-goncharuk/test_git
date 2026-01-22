@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98442aea-f6a8-4e0f-9a00-af7b13f5f1d0" name="Changes" comment="test">
+    <list default="true" id="67580672-71c1-4adb-a194-81246e419b02" name="Changes" comment="111">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/getTodayCheckouts.php" beforeDir="false" afterPath="$PROJECT_DIR$/getTodayCheckouts.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/markCheckout.php" beforeDir="false" afterPath="$PROJECT_DIR$/markCheckout.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,177 +16,64 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="igor-goncharuk &lt;mainigor@gmail.com&gt;" />
-      </list>
-    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="F:\OSPanel\modules\php\PHP_7.4\php.exe" />
-  <component name="ProjectId" id="38ccgcc1PNeHdEBDTKQjCAXIA7B" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "F:/OSPanel/domains/test_git/111",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
+    "last_opened_file_path": "F:/OSPanel/domains/test_git",
     "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\OSPanel\domains\test_git\111" />
+      <recent name="F:\OSPanel\domains\test_git" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="98442aea-f6a8-4e0f-9a00-af7b13f5f1d0" name="Changes" comment="" />
-      <created>1769102413365</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1769102413365</updated>
-      <workItem from="1769102414978" duration="6971000" />
-    </task>
-    <task id="LOCAL-00001" summary="test">
+    <task id="LOCAL-00001" summary="111">
       <option name="closed" value="true" />
-      <created>1769102523328</created>
+      <created>1769109991223</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1769102523328</updated>
+      <updated>1769109991223</updated>
     </task>
-    <task id="LOCAL-00002" summary="test">
+    <task id="LOCAL-00002" summary="111">
       <option name="closed" value="true" />
-      <created>1769103019743</created>
+      <created>1769110333052</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1769103019743</updated>
+      <updated>1769110333052</updated>
     </task>
-    <task id="LOCAL-00003" summary="test">
+    <task id="LOCAL-00003" summary="111">
       <option name="closed" value="true" />
-      <created>1769103117949</created>
+      <created>1769110510574</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1769103117949</updated>
+      <updated>1769110510574</updated>
     </task>
-    <task id="LOCAL-00004" summary="test">
+    <task id="LOCAL-00004" summary="111">
       <option name="closed" value="true" />
-      <created>1769103153309</created>
+      <created>1769111564440</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1769103153309</updated>
+      <updated>1769111564440</updated>
     </task>
-    <task id="LOCAL-00005" summary="test">
-      <option name="closed" value="true" />
-      <created>1769103875967</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1769103875967</updated>
-    </task>
-    <task id="LOCAL-00006" summary="test">
-      <option name="closed" value="true" />
-      <created>1769104384018</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1769104384018</updated>
-    </task>
-    <task id="LOCAL-00007" summary="test">
-      <option name="closed" value="true" />
-      <created>1769104937796</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1769104937796</updated>
-    </task>
-    <task id="LOCAL-00008" summary="test">
-      <option name="closed" value="true" />
-      <created>1769109399536</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1769109399536</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ID_ORDER">
-      <list>
-        <option value="Default.Root" />
-        <option value="Default.Author" />
-        <option value="Default.Date" />
-        <option value="Default.Subject" />
-        <option value="Space.CommitStatus" />
-      </list>
-    </option>
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="b01f4bfc-e18f-4820-b82e-125c762c7a0f" value="TOOL_WINDOW" />
-      </map>
-    </option>
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-        <entry key="b01f4bfc-e18f-4820-b82e-125c762c7a0f">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="HEAD" />
-                      </list>
-                    </value>
-                  </entry>
-                  <entry key="structure">
-                    <value>
-                      <list>
-                        <option value="dir:F:/OSPanel/domains/test_git/111" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
-    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
-    <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="111" />
+    <option name="LAST_COMMIT_MESSAGE" value="111" />
   </component>
 </project>
